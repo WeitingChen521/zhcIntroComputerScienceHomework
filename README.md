@@ -1,1 +1,2 @@
-# zhcIntroComputerScienceHomework
+# schoology don't accept .py files
+# so I upload here...
