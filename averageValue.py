@@ -29,11 +29,3 @@ while True:
 print("finish")
 print("count is: ", count)
 print("Average Value is: ", averageValue)
-
-
-
-
-
-# I have no clue how to deal with this homework
-# 不慎理解，問
-# Don't quite understand, ask
